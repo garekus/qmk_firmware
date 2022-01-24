@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT         Keebio Iris Rev. 4
 
 #define MASTER_LEFT
-#define USE_I2C
 
 
 /* key matrix size */
